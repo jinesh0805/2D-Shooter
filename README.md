@@ -24,7 +24,7 @@ To run the game, follow these steps:
 
 ## Controls
 - **Arrow Keys**: Move your character.
-- **Space Bar**: Shoot bullets.
+- **Right Click**: Shoot bullets.
 - **P**: Pause the game.
 
 ## How to Play
